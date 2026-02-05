@@ -1,0 +1,24 @@
+[
+  {
+    "quadrant": "SULTAN LOYAL",
+    "count": 59272,
+    "avg_revenue": 1403749.7059350116,
+    "avg_tenure": 11.317451747874207,
+    "total_revenue": 83203052570.18001,
+    "total_potential": 24960915771.054,
+    "strategy": "High-Value Cross-Sell",
+    "action": "Tawarkan produk premium: PV Rooftop, Full Smart Office Solution, Green Energy",
+    "color": "#10B981"
+  },
+  {
+    "quadrant": "ORANG KAYA BARU",
+    "count": 59044,
+    "avg_revenue": 1604716.7688757535,
+    "avg_tenure": 2.3110730980285887,
+    "total_revenue": 94748896901.49998,
+    "total_potential": 28424669070.449997,
+    "strategy": "Onboarding & Satisfaction",
+    "action": "Pastikan layanan stabil. Bundling sederhana: Internet + 1 CCTV",
+    "color": "#3B82F6"
+  }
+]

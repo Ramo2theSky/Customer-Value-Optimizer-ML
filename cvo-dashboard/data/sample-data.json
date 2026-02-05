@@ -1,0 +1,234 @@
+{
+  "summaryMetrics": {
+    "totalCustomers": 1245893,
+    "totalRevenue": 4872934156000,
+    "upsellOpportunities": 87342,
+    "potentialRevenue": 123456789000,
+    "activeServices": 987654,
+    "churnRiskCount": 45678,
+    "avgRevenuePerUser": 3908,
+    "modelAccuracy": 92.4,
+    "lastUpdated": "2025-01-29T14:30:00Z"
+  },
+  "strategicMatrices": {
+    "revenueBandwidth": {
+      "quadrants": [
+        {
+          "name": "High Revenue / High Bandwidth",
+          "count": 12456,
+          "avgPropensity": 0.82,
+          "color": "#0047AB"
+        },
+        {
+          "name": "High Revenue / Low Bandwidth",
+          "count": 32890,
+          "avgPropensity": 0.78,
+          "color": "#0066CC"
+        },
+        {
+          "name": "Low Revenue / High Bandwidth",
+          "count": 28543,
+          "avgPropensity": 0.71,
+          "color": "#0099FF"
+        },
+        {
+          "name": "Low Revenue / Low Bandwidth",
+          "count": 501234,
+          "avgPropensity": 0.45,
+          "color": "#CCCCCC"
+        }
+      ],
+      "totalCustomers": 575123
+    },
+    "revenueTenure": {
+      "quadrants": [
+        {
+          "name": "High Revenue / High Tenure",
+          "count": 8923,
+          "avgPropensity": 0.88,
+          "color": "#0047AB"
+        },
+        {
+          "name": "High Revenue / Low Tenure",
+          "count": 42345,
+          "avgPropensity": 0.75,
+          "color": "#0066CC"
+        },
+        {
+          "name": "Low Revenue / High Tenure",
+          "count": 35678,
+          "avgPropensity": 0.73,
+          "color": "#0099FF"
+        },
+        {
+          "name": "Low Revenue / Low Tenure",
+          "count": 488177,
+          "avgPropensity": 0.42,
+          "color": "#CCCCCC"
+        }
+      ],
+      "totalCustomers": 575123
+    }
+  },
+  "propensityDistribution": [
+    { "range": "0.0-0.1", "count": 89500, "percentage": 15.5 },
+    { "range": "0.1-0.2", "count": 78200, "percentage": 13.6 },
+    { "range": "0.2-0.3", "count": 65400, "percentage": 11.4 },
+    { "range": "0.3-0.4", "count": 82100, "percentage": 14.3 },
+    { "range": "0.4-0.5", "count": 78900, "percentage": 13.7 },
+    { "range": "0.5-0.6", "count": 62300, "percentage": 10.8 },
+    { "range": "0.6-0.7", "count": 68900, "percentage": 12.0 },
+    { "range": "0.7-0.8", "count": 58900, "percentage": 10.2 },
+    { "range": "0.8-0.9", "count": 52300, "percentage": 9.1 },
+    { "range": "0.9-1.0", "count": 6900, "percentage": 1.4 }
+  ],
+  "topOpportunities": [
+    {
+      "customerId": "CVO-001234",
+      "customerName": "PT Maju Jaya Teknologi",
+      "segment": "Enterprise",
+      "currentRevenue": 458000000,
+      "potentialRevenue": 687000000,
+      "propensityScore": 0.94,
+      "bandwidthUtilization": 0.87,
+      "tenureMonths": 36,
+      "recommendedAction": "Upgrade to Premium Plan",
+      "estimatedValue": 229000000
+    },
+    {
+      "customerId": "CVO-001235",
+      "customerName": "CV Digital Nusantara",
+      "segment": "SMB",
+      "currentRevenue": 125000000,
+      "potentialRevenue": 250000000,
+      "propensityScore": 0.91,
+      "bandwidthUtilization": 0.92,
+      "tenureMonths": 24,
+      "recommendedAction": "Add Cloud Storage Package",
+      "estimatedValue": 125000000
+    },
+    {
+      "customerId": "CVO-001236",
+      "customerName": "PT Indo Solutions",
+      "segment": "Enterprise",
+      "currentRevenue": 890000000,
+      "potentialRevenue": 1335000000,
+      "propensityScore": 0.89,
+      "bandwidthUtilization": 0.78,
+      "tenureMonths": 48,
+      "recommendedAction": "Dedicated Infrastructure",
+      "estimatedValue": 445000000
+    },
+    {
+      "customerId": "CVO-001237",
+      "customerName": "Startup Indonesia Hub",
+      "segment": "Startup",
+      "currentRevenue": 45000000,
+      "potentialRevenue": 112500000,
+      "propensityScore": 0.87,
+      "bandwidthUtilization": 0.95,
+      "tenureMonths": 12,
+      "recommendedAction": "Scale Up Package",
+      "estimatedValue": 67500000
+    },
+    {
+      "customerId": "CVO-001238",
+      "customerName": "PT Karya Bersama",
+      "segment": "SMB",
+      "currentRevenue": 230000000,
+      "potentialRevenue": 368000000,
+      "propensityScore": 0.85,
+      "bandwidthUtilization": 0.83,
+      "tenureMonths": 30,
+      "recommendedAction": "Managed Services Bundle",
+      "estimatedValue": 138000000
+    },
+    {
+      "customerId": "CVO-001239",
+      "customerName": "Go-Tech Indonesia",
+      "segment": "Enterprise",
+      "currentRevenue": 1200000000,
+      "potentialRevenue": 1800000000,
+      "propensityScore": 0.84,
+      "bandwidthUtilization": 0.69,
+      "tenureMonths": 42,
+      "recommendedAction": "Global Connectivity Package",
+      "estimatedValue": 600000000
+    },
+    {
+      "customerId": "CVO-001240",
+      "customerName": "PT Sinergi Digital",
+      "segment": "SMB",
+      "currentRevenue": 89000000,
+      "potentialRevenue": 151300000,
+      "propensityScore": 0.82,
+      "bandwidthUtilization": 0.88,
+      "tenureMonths": 18,
+      "recommendedAction": "Cybersecurity Upgrade",
+      "estimatedValue": 62300000
+    },
+    {
+      "customerId": "CVO-001241",
+      "customerName": "Cloud First Solutions",
+      "segment": "Enterprise",
+      "currentRevenue": 567000000,
+      "potentialRevenue": 850500000,
+      "propensityScore": 0.81,
+      "bandwidthUtilization": 0.72,
+      "tenureMonths": 28,
+      "recommendedAction": "Hybrid Cloud Solution",
+      "estimatedValue": 283500000
+    },
+    {
+      "customerId": "CVO-001242",
+      "customerName": "PT Inovasi Teknologi",
+      "segment": "SMB",
+      "currentRevenue": 156000000,
+      "potentialRevenue": 234000000,
+      "propensityScore": 0.79,
+      "bandwidthUtilization": 0.79,
+      "tenureMonths": 22,
+      "recommendedAction": "IoT Connectivity Package",
+      "estimatedValue": 78000000
+    },
+    {
+      "customerId": "CVO-001243",
+      "customerName": "Digital Future Corp",
+      "segment": "Startup",
+      "currentRevenue": 67000000,
+      "potentialRevenue": 117250000,
+      "propensityScore": 0.78,
+      "bandwidthUtilization": 0.86,
+      "tenureMonths": 8,
+      "recommendedAction": "Business Growth Package",
+      "estimatedValue": 50250000
+    }
+  ],
+  "modelPerformance": {
+    "accuracy": 92.4,
+    "precision": 89.7,
+    "recall": 91.2,
+    "f1Score": 90.4,
+    "aucRoc": 0.94,
+    "trainingSamples": 876543,
+    "testSamples": 219136,
+    "lastTrainingDate": "2025-01-15",
+    "modelVersion": "v2.3.1",
+    "featureImportance": [
+      { "feature": "Bandwidth Utilization", "importance": 0.234 },
+      { "feature": "Tenure Months", "importance": 0.189 },
+      { "feature": "Service Count", "importance": 0.156 },
+      { "feature": "Revenue Growth", "importance": 0.143 },
+      { "feature": "Support Tickets", "importance": 0.098 },
+      { "feature": "Payment History", "importance": 0.087 },
+      { "feature": "Contract Length", "importance": 0.065 },
+      { "feature": "Industry Type", "importance": 0.028 }
+    ],
+    "confusionMatrix": {
+      "truePositive": 78543,
+      "falsePositive": 6789,
+      "trueNegative": 125678,
+      "falseNegative": 8126
+    }
+  }
+}
