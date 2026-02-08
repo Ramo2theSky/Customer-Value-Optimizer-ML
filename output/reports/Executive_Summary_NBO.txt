@@ -1,0 +1,153 @@
+
+
+           CVO v3.0 - NEXT BEST OFFER EXECUTIVE SUMMARY                        
+                    PLN Icon+ - Customer Value Optimizer                       
+
+
+Generated: 01 February 2026 21:24
+
+
+[DATA] BUSINESS METRICS
+
+
+Total Customers: 5,663
+Total Revenue: Rp 443.89 M
+Avg Revenue/Customer: Rp 78.38 Jt
+
+
+[TARGET] BANDWIDTH CLUSTER DISTRIBUTION
+
+
+NO_BANDWIDTH   :  1,924 pel ( 34.0%) |   Rp 53.45 M | Avg BW:    0.0 Mbps
+ATM_IOT        :     21 pel (  0.4%) | Rp 422.54 Jt | Avg BW:    0.3 Mbps
+UMKM_SMALL     :  1,528 pel ( 27.0%) |   Rp 85.23 M | Avg BW:    9.2 Mbps
+CORPORATE      :  2,069 pel ( 36.5%) |  Rp 206.09 M | Avg BW:  109.1 Mbps
+ENTERPRISE     :    121 pel (  2.1%) |   Rp 98.69 M | Avg BW: 3650.8 Mbps
+
+
+[TARGET] STRATEGIC QUADRANT DISTRIBUTION
+
+
+[TARGET] NON-BW HIGH VALUE:  1,924 pel ( 34.0%) |   Rp 53.45 M
+ UMKM PEMULA             :    764 pel ( 13.5%) |    Rp 9.58 M
+[MOBILE] UMKM POTENSIAL  :    764 pel ( 13.5%) |   Rp 75.65 M
+[STAR] CORPORATE BINTANG :    572 pel ( 10.1%) |  Rp 122.59 M
+ CORPORATE SNIPER        :    517 pel (  9.1%) |    Rp 9.16 M
+ CORPORATE PEMULA        :    516 pel (  9.1%) |    Rp 8.69 M
+[TARGET] CORPORATE RISIKO:    464 pel (  8.2%) |   Rp 65.66 M
+[OFFICE] ENTERPRISE BINTANG:     61 pel (  1.1%) |   Rp 94.75 M
+[SAT] ENTERPRISE POTENSI :     60 pel (  1.1%) |    Rp 3.94 M
+[SAT] ATM/IoT            :     21 pel (  0.4%) | Rp 422.54 Jt
+
+
+[LAUNCH] NEXT BEST OFFER OPPORTUNITIES
+
+
+High Priority Targets (Score >70%): 535 customers
+Total Revenue Potential: Rp 2.74 M
+
+TOP 10 PRIORITY CUSTOMERS:
+
+KOPERASI KONSUMEN KARYAWAN PLTU SUR
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.77 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+PT. GEMILANG SARANA MANDIRI        
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.75 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+PT. QIANDRA INFORMATION TECHNOLOGY 
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.72 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+SMK INFORMATIKA UTAMA              
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.71 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+CV. HANEKA                         
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.71 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+PT. AKSES BERSAMA SEDAYA           
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.57 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+CV. ENERGY LINE                    
+   Cluster: CORPORATE | Tier: DI-TS
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.56 Jt
+   NBO: Tier: Add Smart Digital Solution | Cross-sell: AGO, AIRTax |...
+
+PT. AGRO KATI LAMA                 
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.56 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+BALAI LATIHAN KERJA KOMUNITAS MAKRI
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.56 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+SMK NEGERI 1 BRINGIN               
+   Cluster: CORPORATE | Tier: DI Only
+   Quadrant:  CORPORATE SNIPER | Score: 100.0%
+   Potential: Rp 10.56 Jt
+   NBO: Tier: Add Technology Services | Cross-sell: Addon Penguat Wi...
+
+
+[LIST] RECOMMENDED ACTIONS
+
+
+1. IMMEDIATE (30 Days):
+   - Contact 535 customers with score >80%
+   - Focus on CORPORATE SNIPER quadrant for bandwidth upsell
+   - Focus on CORPORATE RISIKO quadrant for cross-sell solutions
+
+2. SHORT-TERM (90 Days):
+   - Execute tier upgrade roadmap (DI Only → DI-TS, DI-TS → DI-SDS-TS)
+   - Launch segment-specific campaigns:
+     * GOVERNMENT: Smart City solutions
+     * BUSINESS: Managed Services & Cloud
+
+3. LONG-TERM (12 Months):
+   - Build automated NBO recommendation engine
+   - Implement customer lifecycle management per cluster
+   - Develop predictive churn model for Star Clients
+
+
+[IDEA] KEY INSIGHTS
+
+
+1. Bandwidth Cluster Strategy:
+   - NO_BANDWIDTH: Cross-sell connectivity & digital solutions
+   - ATM/IoT: Maintenance mode, ensure reliability
+   - UMKM: Gradual upgrade to Corporate packages
+   - CORPORATE: Main upsell & cross-sell target (FOCUS HERE)
+   - ENTERPRISE: Retention & premium services
+
+2. Tier Roadmap:
+   - 15 tier combinations mapped with next-best-offer
+   - DI Only customers (10.8%) should be priority for TS addition
+   - DI-TS customers (59.7%) ready for SDS cross-sell
+
+3. Segment Context:
+   - GOVERNMENT (51.1%): Focus on public services, Smart City
+   - BUSINESS (48.9%): Focus on efficiency, managed services
+
+
+Generated by CVO v3.0 - Next Best Offer Engine
+

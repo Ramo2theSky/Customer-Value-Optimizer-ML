@@ -190,8 +190,8 @@ export default function CustomersPage() {
       setFilteredCustomers(result.data);
       
       // Extract unique tier values for filters
-      const uniqueCurrentTiers = [...new Set(result.data.map(c => c.current_tier).filter(Boolean))];
-      const uniqueRecommendedTiers = [...new Set(result.data.map(c => c.recommended_tier).filter(Boolean))];
+      const uniqueCurrentTiers = Array.from(new Set(result.data.map(c => c.current_tier).filter(Boolean)));
+      const uniqueRecommendedTiers = Array.from(new Set(result.data.map(c => c.recommended_tier).filter(Boolean)));
       
       setCurrentTiers(["All Current Tiers", ...uniqueCurrentTiers]);
       setRecommendedTiers(["All Recommended Tiers", ...uniqueRecommendedTiers]);

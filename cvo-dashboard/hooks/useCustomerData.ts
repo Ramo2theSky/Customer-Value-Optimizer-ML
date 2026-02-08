@@ -104,14 +104,14 @@ export function useCustomerData(): UseCustomerDataReturn {
       const strategiesRes = await fetch(`${API_BASE_URL}/strategies`);
       if (strategiesRes.ok) {
         const strategiesData = await strategiesRes.json();
-        // Transform API format {"strategies": ["label1", "label2"], "counts": {"label1": 123, "label2": 456}}
-        // to frontend format [{label: "label1", count: 123, color: "#10B981"}, {label: "label2", count: 456, color: "#3B82F6"}]
-        const transformedStrategies = (strategiesData.strategies || []).map((label: string) => ({
-          label,
-          count: strategiesData.counts?.[label] || 0,
-          color: getStrategyColor(label)
+        // API now returns: {strategies: [{label, count, color}, ...], total_unique: N}
+        // Ensure each strategy has a color
+        const strategiesWithColors = (strategiesData.strategies || []).map((s: any) => ({
+          label: s.label,
+          count: s.count || 0,
+          color: s.color || getStrategyColor(s.label)
         }));
-        setStrategies(transformedStrategies);
+        setStrategies(strategiesWithColors);
       }
       
       // Build URL dengan semua filters

@@ -1,0 +1,20 @@
+{
+  "total_customers": 118316,
+  "total_revenue": 177951949471.68,
+  "total_ltv": 13702896920467.2,
+  "avg_revenue": 1504039.601336083,
+  "avg_ltv": 115816093.51623787,
+  "sales_matrix": {
+    "INCUBATOR": 96977,
+    "RISK_AREA": 12646,
+    "SNIPER_ZONE": 5048,
+    "STAR_CLIENTS": 3645
+  },
+  "trust_matrix": {
+    "NEW_LOW": 85537,
+    "LOYAL_BUT_LOW": 28135,
+    "SULTAN_LOYAL": 2707,
+    "NEW_POTENTIAL": 1937
+  },
+  "generated_at": "2026-02-02T09:18:18.514364"
+}
